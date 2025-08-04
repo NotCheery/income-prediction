@@ -1,4 +1,4 @@
-# income-prediction
+# Income-Prediction
 
 ## 📌 Project Overview
 This project predicts whether an individual's income is high or low using the Adult Census Dataset.
