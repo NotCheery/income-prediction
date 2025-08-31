@@ -1,6 +1,6 @@
-# My Project Title
+# Income Prediction
 
-A brief, one-sentence description of your project.
+This project uses U.S. Census data to train and evaluate a machine learning model that predicts whether an individual's annual income exceeds $50,000.
 
 ## Tech Stack
 * **Programming Language:** Python
